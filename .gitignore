@@ -2,6 +2,7 @@
 .git/
 /.gradle/
 /gradle/
+/solution/
 gradlew
 gradlew.bat
 build.gradle
